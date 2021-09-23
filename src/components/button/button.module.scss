@@ -1,0 +1,13 @@
+.button {
+    padding: 25px 51px;
+    color: var(--main-text-color);
+    border: none;
+}
+
+.filled {
+    background-color: var(--main-front-color);
+}
+
+.outlined {
+    border: 2px var(--main-text-color) solid;
+}
